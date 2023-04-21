@@ -6,15 +6,15 @@ application up and running.
 Things you may want to cover:
 
 * Ruby version
-3.0.1
+`3.0.1`
 
 * Rails version
-7.0.4.3
+`7.0.4.3`
 
 * Database creation
-rails db:create
-rails db:seed
+`rails db:create`
+`rails db:seed`
 
 * Run server
-bundle install
-rails s
+`bundle install`
+`rails s`
